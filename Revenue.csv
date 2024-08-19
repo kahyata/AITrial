@@ -1,0 +1,16 @@
+RevenueID,BusinessID,Source,Amount,DateReceived,Description
+1,1,Sales,15000,2024-08-01,Sales revenue for August
+2,2,Consulting,8000,2024-08-03,Consulting service revenue
+3,3,Farm Produce,10000,2024-08-10,Sale of farm produce
+4,1,Sales,15000,2024-08-01,Sales revenue for August
+5,2,Consulting,8000,2024-08-03,Consulting service revenue
+6,3,Farm Produce,10000,2024-08-10,Sale of farm produce
+7,1,Sales,15000,2024-08-01,Sales revenue for August
+8,2,Consulting,8000,2024-08-03,Consulting service revenue
+9,3,Farm Produce,10000,2024-08-10,Sale of farm produce
+10,1,Sales,15000,2024-08-01,Sales revenue for August
+11,2,Consulting,8000,2024-08-03,Consulting service revenue
+12,3,Farm Produce,10000,2024-08-10,Sale of farm produce
+13,1,Sales,15000,2024-08-01,Sales revenue for August
+14,2,Consulting,8000,2024-08-03,Consulting service revenue
+15,3,Farm Produce,10000,2024-08-10,Sale of farm produce

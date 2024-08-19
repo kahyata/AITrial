@@ -1,0 +1,16 @@
+AssetID,BusinessID,AssetName,AssetType,Value,PurchaseDate,Depreciation
+1,1,Office Building,Property,250000,2020-03-15,20000
+2,2,Computers,Equipment,50000,2018-07-01,5000
+3,3,Tractor,Machinery,120000,2019-09-10,10000
+4,1,Office Building,Property,250000,2020-03-15,20000
+5,2,Computers,Equipment,50000,2018-07-01,5000
+6,3,Tractor,Machinery,120000,2019-09-10,10000
+7,1,Office Building,Property,250000,2020-03-15,20000
+8,2,Computers,Equipment,50000,2018-07-01,5000
+9,3,Tractor,Machinery,120000,2019-09-10,10000
+10,1,Office Building,Property,250000,2020-03-15,20000
+11,2,Computers,Equipment,50000,2018-07-01,5000
+12,3,Tractor,Machinery,120000,2019-09-10,10000
+13,1,Office Building,Property,250000,2020-03-15,20000
+14,2,Computers,Equipment,50000,2018-07-01,5000
+15,3,Tractor,Machinery,120000,2019-09-10,10000

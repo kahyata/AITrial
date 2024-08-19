@@ -1,0 +1,21 @@
+TransactionID,BusinessID,Date,Type,Category,Amount,Description
+1,1,2024-08-01,Income,Sales,15000,Sales of goods
+2,1,2024-08-05,Expense,Rent,3000,Monthly rent payment
+3,2,2024-08-03,Income,Consulting,8000,Consulting service fee
+4,3,2024-08-06,Expense,Supplies,2000,Purchase of farming supplies
+5,1,2024-08-01,Income,Sales,15000,Sales of goods
+6,1,2024-08-05,Expense,Rent,3000,Monthly rent payment
+7,2,2024-08-03,Income,Consulting,8000,Consulting service fee
+8,3,2024-08-06,Expense,Supplies,2000,Purchase of farming supplies
+9,1,2024-08-01,Income,Sales,15000,Sales of goods
+10,1,2024-08-05,Expense,Rent,3000,Monthly rent payment
+11,2,2024-08-03,Income,Consulting,8000,Consulting service fee
+12,3,2024-08-06,Expense,Supplies,2000,Purchase of farming supplies
+13,1,2024-08-01,Income,Sales,15000,Sales of goods
+14,1,2024-08-05,Expense,Rent,3000,Monthly rent payment
+15,2,2024-08-03,Income,Consulting,8000,Consulting service fee
+16,3,2024-08-06,Expense,Supplies,2000,Purchase of farming supplies
+17,1,2024-08-01,Income,Sales,15000,Sales of goods
+18,1,2024-08-05,Expense,Rent,3000,Monthly rent payment
+19,2,2024-08-03,Income,Consulting,8000,Consulting service fee
+20,3,2024-08-06,Expense,Supplies,2000,Purchase of farming supplies

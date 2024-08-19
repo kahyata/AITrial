@@ -1,0 +1,16 @@
+ExpenseID,BusinessID,ExpenseType,Amount,DateIncurred,Recurring,Description
+1,1,Rent,3000,2024-08-05,1,Monthly rent payment
+2,2,Salaries,7000,2024-08-03,1,Staff salaries for August
+3,3,Supplies,2000,2024-08-06,0,Purchase of farming supplies
+4,1,Rent,3000,2024-08-05,1,Monthly rent payment
+5,2,Salaries,7000,2024-08-03,1,Staff salaries for August
+6,3,Supplies,2000,2024-08-06,0,Purchase of farming supplies
+7,1,Rent,3000,2024-08-05,1,Monthly rent payment
+8,2,Salaries,7000,2024-08-03,1,Staff salaries for August
+9,3,Supplies,2000,2024-08-06,0,Purchase of farming supplies
+10,1,Rent,3000,2024-08-05,1,Monthly rent payment
+11,2,Salaries,7000,2024-08-03,1,Staff salaries for August
+12,3,Supplies,2000,2024-08-06,0,Purchase of farming supplies
+13,1,Rent,3000,2024-08-05,1,Monthly rent payment
+14,2,Salaries,7000,2024-08-03,1,Staff salaries for August
+15,3,Supplies,2000,2024-08-06,0,Purchase of farming supplies

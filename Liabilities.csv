@@ -1,0 +1,16 @@
+LiabilityID,BusinessID,LiabilityName,LiabilityType,AmountOwed,DueDate
+1,1,Bank Loan,Loan,50000,2024-12-31
+2,2,Credit Card,Credit Line,15000,2024-11-15
+3,3,Equipment Lease,Lease,30000,2024-10-20
+4,1,Bank Loan,Loan,50000,2024-12-31
+5,2,Credit Card,Credit Line,15000,2024-11-15
+6,3,Equipment Lease,Lease,30000,2024-10-20
+7,1,Bank Loan,Loan,50000,2024-12-31
+8,2,Credit Card,Credit Line,15000,2024-11-15
+9,3,Equipment Lease,Lease,30000,2024-10-20
+10,1,Bank Loan,Loan,50000,2024-12-31
+11,2,Credit Card,Credit Line,15000,2024-11-15
+12,3,Equipment Lease,Lease,30000,2024-10-20
+13,1,Bank Loan,Loan,50000,2024-12-31
+14,2,Credit Card,Credit Line,15000,2024-11-15
+15,3,Equipment Lease,Lease,30000,2024-10-20
